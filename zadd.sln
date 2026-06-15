@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadd.Android", "zadd.Android\zadd.Android.csproj", "{7121A63B-C154-4579-BF7C-AFD140E5174C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadd.iOS", "zadd.iOS\zadd.iOS.csproj", "{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadd", "zadd\zadd.csproj", "{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7121A63B-C154-4579-BF7C-AFD140E5174C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7121A63B-C154-4579-BF7C-AFD140E5174C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7121A63B-C154-4579-BF7C-AFD140E5174C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7121A63B-C154-4579-BF7C-AFD140E5174C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7121A63B-C154-4579-BF7C-AFD140E5174C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7121A63B-C154-4579-BF7C-AFD140E5174C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{8D6EF52F-A29B-49A7-8504-B5C18E5E9114}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B6742C-B01A-4349-AE6E-2ADBF5FBA917}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.csproj.AssemblyReference.cache
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.GeneratedMSBuildEditorConfig.editorconfig
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.AssemblyInfoInputs.cache
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.AssemblyInfo.cs
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.csproj.CoreCompileInputs.cache
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.dll
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\refint\zadd.dll
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\zadd.pdb
+C:\zad\zadd\zadd\bin\Debug\netstandard2.0\zadd.deps.json
+C:\zad\zadd\zadd\bin\Debug\netstandard2.0\zadd.dll
+C:\zad\zadd\zadd\bin\Debug\netstandard2.0\ref\zadd.dll
+C:\zad\zadd\zadd\bin\Debug\netstandard2.0\zadd.pdb
+C:\zad\zadd\zadd\obj\Debug\netstandard2.0\XamlC.stamp
