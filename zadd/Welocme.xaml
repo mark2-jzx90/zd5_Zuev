@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="zdd.Welcome"
+    Title="буду красбургером!"
+			 StyleClass="welcome-page">
+
+
+	<ContentPage.Resources>
+		<StyleSheet Source="styles.css" />
+	</ContentPage.Resources>
+
+	<StackLayout Padding="30" Spacing="15" VerticalOptions="Center">
+		<Label Text="Welcome" StyleClass="welcome-title" />
+
+		<Entry x:Name="txtName"
+               Placeholder="Введите имя"
+               StyleClass="welcome-entry"
+               TextChanged="OnEntryTextChanged" />
+<Entry x:Name="txtPassword"
+               Placeholder="Введите пароль"
+               StyleClass="welcome-entry"
+               IsPassword="True"
+               TextChanged="OnEntryTextChanged" />
+<Button x:Name="SignIn"
+                Text="Sign In"
+                StyleClass="welcome-button"
+                Clicked="OnSignInClicked"
+                IsEnabled="False" />
+<StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="10">
+			<CheckBox x:Name="checkBox" StyleClass="welcome-checkbox" />
+			<Label Text="Remember me" StyleClass="welcome-label" />
+</StackLayout>
+		<Label x:Name="Forgot"
+               Text="I forgot!"
+               StyleClass="welcome-forgot"
+               HorizontalOptions="Center" />
+	</StackLayout>
+</ContentPage>
