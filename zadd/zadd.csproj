@@ -17,6 +17,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="select.xaml.cs">
+	    <DependentUpon>select.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="prof.xaml.cs">
+	    <DependentUpon>prof.xaml</DependentUpon>
+	  </Compile>
 	  <Compile Update="Welocme.xaml.cs">
 	    <DependentUpon>Welocme.xaml</DependentUpon>
 	  </Compile>

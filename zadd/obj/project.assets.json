@@ -546,11 +546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПК\\Desktop\\zd4_--main\\zadd\\zadd.csproj",
+      "projectUniqueName": "C:\\Users\\ПК\\Desktop\\zd5_Zuev-main\\zadd\\zadd.csproj",
       "projectName": "zadd",
-      "projectPath": "C:\\Users\\ПК\\Desktop\\zd4_--main\\zadd\\zadd.csproj",
+      "projectPath": "C:\\Users\\ПК\\Desktop\\zd5_Zuev-main\\zadd\\zadd.csproj",
       "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПК\\Desktop\\zd4_--main\\zadd\\obj\\",
+      "outputPath": "C:\\Users\\ПК\\Desktop\\zd5_Zuev-main\\zadd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",

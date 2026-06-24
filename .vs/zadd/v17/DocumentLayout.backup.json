@@ -1,57 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\welocme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\select.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\select.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\welocme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\welocme.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\welocme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\welocme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\page1.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\page1.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\page2.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\page2.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd4_--main\\zadd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd.Android\\MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\prof.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\prof.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\welocme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\welocme.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\styles.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\styles.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\mainpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\prof.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\prof.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\select.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\select.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\select.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\select.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|c:\\users\\\u043F\u043A\\desktop\\zd5_zuev-main\\zadd\\prof.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AE395D63-7C6F-42E6-AD45-CC48AFED1C40}|zadd\\zadd.csproj|solutionrelative:zadd\\prof.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd.Android\\MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zadd.Android\\MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,91 +74,170 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Welocme.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Welocme.xaml.cs",
-              "RelativeDocumentMoniker": "zadd\\Welocme.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Welocme.xaml.cs",
-              "RelativeToolTip": "zadd\\Welocme.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T16:55:13.464Z",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\App.xaml",
+              "RelativeDocumentMoniker": "zadd\\App.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\App.xaml",
+              "RelativeToolTip": "zadd\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-24T19:50:34.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Welocme.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Welocme.xaml",
-              "RelativeDocumentMoniker": "zadd\\Welocme.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Welocme.xaml",
-              "RelativeToolTip": "zadd\\Welocme.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-15T16:52:23.512Z",
+              "DocumentIndex": 0,
+              "Title": "select.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\select.xaml.cs",
+              "RelativeDocumentMoniker": "zadd\\select.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\select.xaml.cs",
+              "RelativeToolTip": "zadd\\select.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:33:15.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Page2.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page2.xaml",
-              "RelativeDocumentMoniker": "zadd\\Page2.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page2.xaml",
-              "RelativeToolTip": "zadd\\Page2.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-15T16:47:23.533Z",
+              "Title": "prof.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\prof.xaml.cs",
+              "RelativeDocumentMoniker": "zadd\\prof.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\prof.xaml.cs",
+              "RelativeToolTip": "zadd\\prof.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:32:29.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\MainPage.xaml",
-              "RelativeDocumentMoniker": "zadd\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\MainPage.xaml",
-              "RelativeToolTip": "zadd\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-15T16:45:03.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page1.xaml",
-              "RelativeDocumentMoniker": "zadd\\Page1.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page1.xaml",
-              "RelativeToolTip": "zadd\\Page1.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-15T16:43:19.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "zadd\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\MainPage.xaml.cs",
               "RelativeToolTip": "zadd\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T06:51:48.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "zadd\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\AssemblyInfo.cs",
+              "RelativeToolTip": "zadd\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:26:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welocme.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\Welocme.xaml.cs",
+              "RelativeDocumentMoniker": "zadd\\Welocme.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\Welocme.xaml.cs",
+              "RelativeToolTip": "zadd\\Welocme.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:55:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welocme.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\Welocme.xaml",
+              "RelativeDocumentMoniker": "zadd\\Welocme.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\Welocme.xaml",
+              "RelativeToolTip": "zadd\\Welocme.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T16:52:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\App.xaml.cs",
+              "RelativeDocumentMoniker": "zadd\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\App.xaml.cs",
+              "RelativeToolTip": "zadd\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:35:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Styles.css",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\Styles.css",
+              "RelativeDocumentMoniker": "zadd\\Styles.css",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\Styles.css",
+              "RelativeToolTip": "zadd\\Styles.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-24T19:24:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zadd\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\MainPage.xaml",
+              "RelativeToolTip": "zadd\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T16:45:03.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "select.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\select.xaml",
+              "RelativeDocumentMoniker": "zadd\\select.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\select.xaml",
+              "RelativeToolTip": "zadd\\select.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T16:47:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "prof.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\prof.xaml",
+              "RelativeDocumentMoniker": "zadd\\prof.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\prof.xaml",
+              "RelativeToolTip": "zadd\\prof.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-15T16:43:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd.Android\\MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd.Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "zadd.Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd.Android\\MainActivity.cs",
               "RelativeToolTip": "zadd.Android\\MainActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,70 +245,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\App.xaml.cs",
-              "RelativeDocumentMoniker": "zadd\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\App.xaml.cs",
-              "RelativeToolTip": "zadd\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:35:01.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Page2.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page2.xaml",
-              "RelativeDocumentMoniker": "zadd\\Page2.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page2.xaml",
-              "RelativeToolTip": "zadd\\Page2.xaml",
+              "DocumentIndex": 12,
+              "Title": "select.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\select.xaml",
+              "RelativeDocumentMoniker": "zadd\\select.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\select.xaml",
+              "RelativeToolTip": "zadd\\select.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-11T06:29:59.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Page2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page2.xaml.cs",
-              "RelativeDocumentMoniker": "zadd\\Page2.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page2.xaml.cs",
-              "RelativeToolTip": "zadd\\Page2.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:33:15.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page1.xaml.cs",
-              "RelativeDocumentMoniker": "zadd\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page1.xaml.cs",
-              "RelativeToolTip": "zadd\\Page1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:32:29.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page1.xaml",
-              "RelativeDocumentMoniker": "zadd\\Page1.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\Page1.xaml",
-              "RelativeToolTip": "zadd\\Page1.xaml",
+              "DocumentIndex": 14,
+              "Title": "prof.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\prof.xaml",
+              "RelativeDocumentMoniker": "zadd\\prof.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\prof.xaml",
+              "RelativeToolTip": "zadd\\prof.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-11T06:29:58.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\MainPage.xaml",
               "RelativeDocumentMoniker": "zadd\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd4_--main\\zadd\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\zd5_Zuev-main\\zadd\\MainPage.xaml",
               "RelativeToolTip": "zadd\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-11T06:27:28.388Z"
