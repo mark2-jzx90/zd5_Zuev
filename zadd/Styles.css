@@ -1,0 +1,148 @@
+﻿{
+    background-color: #2d1b2e;
+    color: #f5e6d3;
+}
+
+/* Welcome  */
+.welcome-page {
+    background-color: #1a0f1c;
+}
+
+.welcome-title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ff6b4a;
+    margin: 20px;
+    text-align: center;
+}
+
+.welcome-label {
+    font-size: 18px;
+    color: #f5e6d3;
+    margin: 5px;
+}
+
+.welcome-entry {
+    background-color: #3d2440;
+    color: #f5e6d3;
+    border-color: #ff6b4a;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.welcome-button {
+    background-color: #ff6b4a;
+    color: #1a0f1c;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.welcome-button-disabled {
+    background-color: #4a3a4a;
+    color: #8a7a8a;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.welcome-checkbox {
+    color: #ff6b4a;
+    margin: 5px;
+}
+
+.welcome-forgot {
+    color: #ff6b4a;
+    font-size: 14px;
+    text-decoration: underline;
+    margin: 5px;
+}
+
+/* второго экрана (Profile) */
+.profile-page {
+    background-color: #2d1b2e;
+}
+
+.profile-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ff6b4a;
+    margin: 20px;
+    text-align: center;
+}
+
+.profile-label {
+    font-size: 20px;
+    color: #f5e6d3;
+    margin: 15px;
+    text-align: center;
+}
+
+.profile-info {
+    font-size: 22px;
+    color: #ff6b4a;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* третьего экрана (Selection) */
+.selection-page {
+    background-color: #1a0f1c;
+}
+
+.selection-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ff6b4a;
+    margin: 20px;
+    text-align: center;
+}
+
+.selection-picker {
+    background-color: #3d2440;
+    color: #f5e6d3;
+    border-color: #ff6b4a;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.selection-slider {
+    margin: 20px;
+}
+
+.selection-slider-label {
+    font-size: 16px;
+    color: #f5e6d3;
+    text-align: center;
+    margin: 5px;
+}
+
+.selection-result {
+    background-color: #3d2440;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.selection-result-text {
+    font-size: 16px;
+    color: #f5e6d3;
+    text-align: center;
+}
+
+.selection-result-highlight {
+    font-size: 18px;
+    color: #ff6b4a;
+    text-align: center;
+    font-weight: bold;
+}

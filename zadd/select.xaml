@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zadd.Page2"
+             Title="Выбор"
+             StyleClass="selection-page">
+	<ContentPage.Resources>
+		<StyleSheet Source="styles.css" />
+	</ContentPage.Resources>
+
+	<StackLayout Padding="30" Spacing="20">
+		<Label Text="Выбор параметров" StyleClass="selection-title" />
+
+		<Picker x:Name="pickerOptions"
+                StyleClass="selection-picker"
+                Title="Выберите вариант">
+			<Picker.Items>
+				<x:String>Вариант 1 - Стандарт</x:String>
+				<x:String>Вариант 2 - Расширенный</x:String>
+				<x:String>Вариант 3 - ПРО</x:String>
+			</Picker.Items>
+		</Picker>
+		<StackLayout>
+			<Label Text="Значение слайдера:" StyleClass="selection-slider-label" />
+			<Slider x:Name="sliderValue"
+                    StyleClass="selection-slider"
+                    Minimum="0"
+                    Maximum="100"
+                    Value="50" />
+			<Label x:Name="lblSliderValue"
+                   Text="50"
+                   StyleClass="selection-slider-label" />
+		</StackLayout>
+
+		<Button x:Name="btnShowResult"
+                Text="Показать результат"
+                StyleClass="welcome-button"
+                Clicked="OnShowResultClicked" />
+		<Frame x:Name="resultFrame"
+               StyleClass="selection-result"
+               IsVisible="False">
+			<StackLayout>
+				<Label x:Name="lblSelectedOption"
+                       StyleClass="selection-result-text" />
+				<Label x:Name="lblSliderMax"
+                       StyleClass="selection-result-highlight" />
+				<Label x:Name="lblDescription"
+                       StyleClass="selection-result-text" />
+			</StackLayout>
+		</Frame>
+	</StackLayout>
+</ContentPage>

@@ -3,6 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="zadd.App">
     <Application.Resources>
-
+		<ResourceDictionary>
+			<StyleSheet Source="styles.css" />
+		</ResourceDictionary>
     </Application.Resources>
 </Application>
